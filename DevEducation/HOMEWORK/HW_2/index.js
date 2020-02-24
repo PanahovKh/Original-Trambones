@@ -88,7 +88,7 @@ const getEmptyWathc = num => {
 }
  console.log(getEmptyWathc(5));
 
-// 6
+
 
 
 
