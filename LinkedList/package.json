@@ -1,11 +1,11 @@
 {
-  "name": "hw_2",
+  "name": "linkedlist",
   "version": "1.0.0",
-  "description": "HW_2",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Khanaki_P",
+  "author": "",
   "license": "ISC"
 }

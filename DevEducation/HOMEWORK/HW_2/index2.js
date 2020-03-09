@@ -47,7 +47,6 @@ console.log(getEmptySquare(5));
         }
         str += '\n';
     }
-    
     return str;
 
 }
@@ -89,4 +88,11 @@ const getEmptyWathc = num => {
 }
  console.log(getEmptyWathc(5));
 
- 
+
+
+
+
+
+
+
+
